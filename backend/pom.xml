@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com</groupId>
-        <artifactId>frakton</artifactId>
+        <groupId>dev.baumgaertner</groupId>
+        <artifactId>family</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
@@ -15,7 +15,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com</groupId>
+            <groupId>dev.baumgaertner</groupId>
             <artifactId>frontend</artifactId>
             <version>${project.version}</version>
             <scope>runtime</scope>
